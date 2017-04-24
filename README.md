@@ -6,8 +6,8 @@ Demo Project
 ==============
 See `ForceTouchHelper/ForceTouchHelper.xcodeproj`
 
-<img src="https://raw.github.com/HeterPu/ForceTouchHelper/master/screenshot/1.png" width="760"><br/>
-<img src="https://raw.github.com/HeterPu/ForceTouchHelper/master/screenshot/2.png" width="760">
+<img src="https://raw.github.com/HeterPu/ForceTouchHelper/master/screenShot/1.png" width="760"><br/>
+<img src="https://raw.github.com/HeterPu/ForceTouchHelper/master/screenShot/2.png" width="760">
 
 
 Requirements
