@@ -65,7 +65,7 @@
         }
         else
         {
-            return self.callBack([NSIndexPath indexPathForRow:0 inSection:0]);
+            return self.callBack(nil);
         }
     }
     else if ([_container[0] isKindOfClass:[UICollectionView class]]){
@@ -78,12 +78,12 @@
         }
         else
         {
-            return self.callBack([NSIndexPath indexPathForRow:0 inSection:0]);
+            return self.callBack(nil);
         }
     }
     else
     {
-        return self.callBack([NSIndexPath indexPathForRow:0 inSection:0]);
+        return self.callBack(nil);
     }
     }
     else
